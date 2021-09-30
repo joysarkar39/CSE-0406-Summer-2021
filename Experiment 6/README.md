@@ -1,13 +1,12 @@
 # Interfacing some sensors with Arduino.
 ## Requirements
 1. Arduino ( UNO )
-2. Servo ( PWMSERVO ) 
-3. light dependent resistor (LDR)
-4. temperature sensor (LM35)
-5. resistor (MINRES1k)
-6. LED
-7. DC power source
-8. Ground
+2. light dependent resistor (LDR)
+3. temperature sensor (LM35)
+4. resistor (MINRES1k)
+5. LED
+6. DC power source
+7. Ground
 
 **Connection sensor pin (LM35, LRD) should be connected with analogue
 
