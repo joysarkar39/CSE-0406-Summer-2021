@@ -1,4 +1,4 @@
-# Interfacing Servo motors with Arduino.
+# Interfacing some sensors with Arduino.
 ## Requirements
 1. Arduino ( UNO )
 2. Servo ( PWMSERVO ) 
