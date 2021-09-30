@@ -10,7 +10,6 @@
 8. Ground
 
 **Connection sensor pin (LM35, LRD) should be connected with analogue
-\
+
 ### voltage = (read * 5) / 1023.0
-\
 ### temperature = ((5* read * 100.0) / 1023.0) ;
